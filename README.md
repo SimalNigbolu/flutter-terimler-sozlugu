@@ -2,7 +2,6 @@
 
 Flutter öğrenme sürecinde karşımıza çıkan tüm temel, orta ve ileri seviye kavramları içeren kapsamlı bir sözlük.
 
----
 
 ## 🔤 Temel Flutter & Dart Terimleri
 
@@ -95,7 +94,7 @@ late: Sonradan atanacak ama null olmayacak değişken
 DartPad: Online Dart editörü
 flutter.dev: Flutter’ın resmi sitesi
 
-**🧩 Flutter Orta & İleri Seviye Terimler**
+##**🧩 Flutter Orta & İleri Seviye Terimler**
 
 async: Asenkron fonksiyon tanımı
 await: Asenkron işlemi bekleme
